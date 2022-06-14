@@ -18,6 +18,7 @@ public class test1 {
         System.out.println("hot-fixTest");
         System.out.println("----------------------");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
 
