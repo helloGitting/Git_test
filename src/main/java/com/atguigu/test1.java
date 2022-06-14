@@ -11,6 +11,7 @@ public class test1 {
     public static void main(String[] args) {
         System.out.println("GitTest1");
         System.out.println("GitTest2");
+        System.out.println("GitTest3");
     }
 }
 
